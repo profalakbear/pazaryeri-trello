@@ -1,0 +1,1030 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\PazarYeri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\models\\listitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\listitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\mediator\\mediatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\mediator\\mediatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\mediator\\imediatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\mediator\\imediatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\services\\logsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\services\\logsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\services\\listitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\services\\listitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\services\\cardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\services\\cardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\servicecontracts\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\servicecontracts\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\servicecontracts\\ilogsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\servicecontracts\\ilogsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\servicecontracts\\ilistitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\servicecontracts\\ilistitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\servicecontracts\\icardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\servicecontracts\\icardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\servicecontracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\servicecontracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\repositorycontracts\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\repositorycontracts\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\repositorycontracts\\ilogsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\repositorycontracts\\ilogsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\repositorycontracts\\ilistitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\repositorycontracts\\ilistitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\repositorycontracts\\icardsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\repositorycontracts\\icardsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\repositorycontracts\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\repositorycontracts\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\repositories\\logsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\repositories\\logsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\repositories\\listitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\repositories\\listitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\repositories\\cardsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\repositories\\cardsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\dtos\\listdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\dtos\\listdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\dtos\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\dtos\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\data\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\data\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\data\\models\\listitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\data\\models\\listitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\data\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\data\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\controllers\\listitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\controllers\\listitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{248D878E-6044-4EAB-9DB7-4271E424B4DD}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|c:\\users\\asus\\source\\repos\\pazaryeri\\api\\data\\migrations\\20240322214907_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B328B3BB-4811-4658-A6FD-45FCCEFC775B}|API\\API.csproj|solutionrelative:api\\data\\migrations\\20240322214907_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:21:07.345Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:36:21.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMediatorService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Mediator\\IMediatorService.cs",
+              "RelativeDocumentMoniker": "MVC\\Mediator\\IMediatorService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Mediator\\IMediatorService.cs",
+              "RelativeToolTip": "MVC\\Mediator\\IMediatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:17:57.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MediatorService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Mediator\\MediatorService.cs",
+              "RelativeDocumentMoniker": "MVC\\Mediator\\MediatorService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Mediator\\MediatorService.cs",
+              "RelativeToolTip": "MVC\\Mediator\\MediatorService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:18:19.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\Card.cs",
+              "RelativeToolTip": "MVC\\Models\\Card.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:01:44.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Log.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\Log.cs",
+              "RelativeToolTip": "MVC\\Models\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:02:00.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\User.cs",
+              "RelativeToolTip": "MVC\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:02:12.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\UserDTO.cs",
+              "RelativeToolTip": "MVC\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:36:04.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:21:15.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "MVC\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "MVC\\Helpers\\JwtHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:29:49.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwGIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:21:52.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Startup.cs",
+              "RelativeDocumentMoniker": "API\\Startup.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Startup.cs",
+              "RelativeToolTip": "API\\Startup.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:10:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:11:34.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListItem.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\ListItem.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\ListItem.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Models\\ListItem.cs",
+              "RelativeToolTip": "MVC\\Models\\ListItem.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAjwBwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:00:22.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Services\\UsersService.cs",
+              "RelativeToolTip": "API\\Services\\UsersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:17:25.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogsService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Services\\LogsService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\LogsService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Services\\LogsService.cs",
+              "RelativeToolTip": "API\\Services\\LogsService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:34:20.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CardsService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Services\\CardsService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\CardsService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Services\\CardsService.cs",
+              "RelativeToolTip": "API\\Services\\CardsService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:44:00.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Services\\AuthService.cs",
+              "RelativeToolTip": "API\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:03:03.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\ServiceContracts\\IUsersService.cs",
+              "RelativeDocumentMoniker": "API\\ServiceContracts\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\ServiceContracts\\IUsersService.cs",
+              "RelativeToolTip": "API\\ServiceContracts\\IUsersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:33:56.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILogsService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\ServiceContracts\\ILogsService.cs",
+              "RelativeDocumentMoniker": "API\\ServiceContracts\\ILogsService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\ServiceContracts\\ILogsService.cs",
+              "RelativeToolTip": "API\\ServiceContracts\\ILogsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:33:54.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICardsService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\ServiceContracts\\ICardsService.cs",
+              "RelativeDocumentMoniker": "API\\ServiceContracts\\ICardsService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\ServiceContracts\\ICardsService.cs",
+              "RelativeToolTip": "API\\ServiceContracts\\ICardsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:43:30.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\ServiceContracts\\IAuthService.cs",
+              "RelativeDocumentMoniker": "API\\ServiceContracts\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\ServiceContracts\\IAuthService.cs",
+              "RelativeToolTip": "API\\ServiceContracts\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:02:41.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Services\\ListItemsService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\ListItemsService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Services\\ListItemsService.cs",
+              "RelativeToolTip": "API\\Services\\ListItemsService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:07:38.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\RepositoryContracts\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "API\\RepositoryContracts\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\RepositoryContracts\\IUsersRepository.cs",
+              "RelativeToolTip": "API\\RepositoryContracts\\IUsersRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:33:47.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ILogsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\RepositoryContracts\\ILogsRepository.cs",
+              "RelativeDocumentMoniker": "API\\RepositoryContracts\\ILogsRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\RepositoryContracts\\ILogsRepository.cs",
+              "RelativeToolTip": "API\\RepositoryContracts\\ILogsRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:33:45.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IListItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\RepositoryContracts\\IListItemsRepository.cs",
+              "RelativeDocumentMoniker": "API\\RepositoryContracts\\IListItemsRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\RepositoryContracts\\IListItemsRepository.cs",
+              "RelativeToolTip": "API\\RepositoryContracts\\IListItemsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:33:44.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IListItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\ServiceContracts\\IListItemsService.cs",
+              "RelativeDocumentMoniker": "API\\ServiceContracts\\IListItemsService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\ServiceContracts\\IListItemsService.cs",
+              "RelativeToolTip": "API\\ServiceContracts\\IListItemsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:07:14.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICardsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\RepositoryContracts\\ICardsRepository.cs",
+              "RelativeDocumentMoniker": "API\\RepositoryContracts\\ICardsRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\RepositoryContracts\\ICardsRepository.cs",
+              "RelativeToolTip": "API\\RepositoryContracts\\ICardsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:33:42.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LogsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Repositories\\LogsRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\LogsRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Repositories\\LogsRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\LogsRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:33:26.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowDUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:46:32.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CardsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Repositories\\CardsRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\CardsRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Repositories\\CardsRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\CardsRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:47:06.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ListItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Repositories\\ListItemsRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\ListItemsRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Repositories\\ListItemsRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\ListItemsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:54:31.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\UsersRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:17:25.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\RepositoryContracts\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "API\\RepositoryContracts\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\RepositoryContracts\\IAuthRepository.cs",
+              "RelativeToolTip": "API\\RepositoryContracts\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:45:48.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA3wCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T21:50:39.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "API\\Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "API\\Helpers\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:08:08.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T21:41:59.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Errors\\ApiException.cs",
+              "RelativeDocumentMoniker": "API\\Errors\\ApiException.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Errors\\ApiException.cs",
+              "RelativeToolTip": "API\\Errors\\ApiException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T21:51:59.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserForLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\DTOs\\UserForLoginDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\UserForLoginDTO.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\DTOs\\UserForLoginDTO.cs",
+              "RelativeToolTip": "API\\DTOs\\UserForLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:09:33.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "API\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:32:38.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\DTOs\\CardDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\CardDTO.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\DTOs\\CardDTO.cs",
+              "RelativeToolTip": "API\\DTOs\\CardDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:41:58.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:31:48.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Models\\User.cs",
+              "RelativeToolTip": "API\\Data\\Models\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:53:20.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Models\\Log.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Models\\Log.cs",
+              "RelativeToolTip": "API\\Data\\Models\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:32:29.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ListItem.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Models\\ListItem.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Models\\ListItem.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Models\\ListItem.cs",
+              "RelativeToolTip": "API\\Data\\Models\\ListItem.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:13:15.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Models\\Card.cs",
+              "RelativeToolTip": "API\\Data\\Models\\Card.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:01:06.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:17:25.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\DTOs\\ListDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\ListDTO.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\DTOs\\ListDTO.cs",
+              "RelativeToolTip": "API\\DTOs\\ListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:14:21.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LogsController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "API\\Controllers\\LogsController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:32:17.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ListItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Controllers\\ListItemsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ListItemsController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Controllers\\ListItemsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ListItemsController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T21:31:39.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:04:52.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowFgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:22:49.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "MVC\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "MVC\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-23T12:52:16.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CardsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Controllers\\CardsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CardsController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Controllers\\CardsController.cs",
+              "RelativeToolTip": "API\\Controllers\\CardsController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:05:34.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAqwGAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:30:56.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "API\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:30:51.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Views\\Auth\\Signup.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Auth\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Views\\Auth\\Signup.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Auth\\Signup.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:28:34.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-23T12:52:58.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:25:49.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:25:54.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T09:26:24.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240322214907_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Migrations\\20240322214907_Initial.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Migrations\\20240322214907_Initial.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\Data\\Migrations\\20240322214907_Initial.cs",
+              "RelativeToolTip": "API\\Data\\Migrations\\20240322214907_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T21:49:07.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\PazarYeri\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T20:11:35.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

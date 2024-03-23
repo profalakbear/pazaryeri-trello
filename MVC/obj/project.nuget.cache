@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOwVeHIylz84NG45XRAnrLRpiL7wyUKkOiPheSXq6Ed6NDqt1GKhu2aQRdrjfSx9gl9ig/Pn48wk+wkhmIbfbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\PazarYeri\\MVC\\MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.4.1\\microsoft.identitymodel.abstractions.7.4.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.4.1\\microsoft.identitymodel.jsonwebtokens.7.4.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.identitymodel.logging\\7.4.1\\microsoft.identitymodel.logging.7.4.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.4.1\\microsoft.identitymodel.tokens.7.4.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.4.1\\system.identitymodel.tokens.jwt.7.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,63 @@
+﻿@model MVC.Models.UserDTO
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trello Sign Up</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .signup-container {
+            margin-top: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 signup-container">
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="text-center">Trello Sign Up</h3>
+                    </div>
+                    <div class="card-body">
+                        <form method="post" asp-action="Signup" asp-controller="Auth">
+                            <div class="form-group">
+                                <label asp-for="Username">Username</label>
+                                <input asp-for="Username" class="form-control" />
+                                <span asp-validation-for="Username" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Password">Password</label>
+                                <input asp-for="Password" type="password" class="form-control" />
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Sign Up</button>
+                        </form>
+                        <div class="mt-3 text-center">
+                            <p>Already have an account? <a href="@Url.Action("Login", "Auth")">Login</a></p>
+                        </div>
+                    </div>
+                    </br>
+                    @if (ViewBag.Message != null)
+                    {
+                        <div class="alert alert-danger">@ViewBag.Message</div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and jQuery -->
+  @*   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> *@
+</body>
+</html>

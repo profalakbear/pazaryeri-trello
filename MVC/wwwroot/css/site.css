@@ -1,0 +1,11 @@
+.card {
+    margin-bottom: 20px;
+}
+
+.list-header {
+    cursor: pointer;
+}
+
+.card-header {
+    cursor: pointer;
+}

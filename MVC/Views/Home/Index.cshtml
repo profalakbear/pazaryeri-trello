@@ -1,0 +1,117 @@
+﻿@model List<ListItem>
+
+@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trello-like Board</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .list-body {
+            min-height: 50px; /* Ensure the lists are droppable */
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Trello Board</a>
+        <div class="ml-auto">
+            <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#userModal">User Details</button>
+        </div>
+    </nav>
+
+    <input type="hidden" id="listCount" name="listCount" value="@Model.Count">
+
+    <!-- Main Section -->
+    <div class="container mt-4">
+        <div class="row" id="listsContainer">
+            <!-- Lists will be dynamically added here -->
+            @if (Model != null && Model.Count > 0)
+            {
+                @foreach (var listItem in Model)
+                {
+                    <!-- LIST -->
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-header list-header" id="listTitle">@listItem.Title</div>
+                            <div type="hidden" id="listId" name="listId" value="@listItem.ID">
+                                <div type="hidden" id="listPosition" name="listIlistPositiond" value="@listItem.Position">
+                                    <div class="card-body list-body" id="sortable">
+                                        <!-- Cards will be dynamically added here -->
+
+                                        @foreach (var card in listItem.Cards)
+                                        {
+                                            <div class="card">
+                                                <div class="card-header">@card.Title</div>
+                                                <div class="card-body">@card.Description</div>
+                                                <div type="hidden" id="cardId" name="cardId" value="@card.ID"></div>
+                                                <div class="card-footer">
+                                                    <button class="btn btn-sm btn-info edit-card" card-id="@card.ID" card-position="@card.Position">Edit</button>
+                                                    <button class="btn btn-sm btn-danger delete-card" card-id="@card.ID" card-position="@card.Position">Delete</button>
+                                                </div>
+                                            </div>
+                                        }
+
+                                    </div>
+                                    <div class="card-footer">
+                                        <button class="btn btn-sm btn-info edit-list" list-id="@listItem.ID" list-position="@listItem.Position">Edit</button>
+                                        <button class="btn btn-sm btn-danger delete-list" list-id="@listItem.ID" list-position="@listItem.Position">Delete</button>
+                                        <button class="btn btn-sm btn-primary add-card" list-id="@listItem.ID" list-position="@listItem.Position">Add Card</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- LIST -->
+                }
+            }
+            else
+            {
+              
+            }
+
+        </div>
+        <button id="addListBtn" class="btn btn-success mt-3" list-count="@Model.Count">Add List</button>
+    </div>
+
+    <!-- User Account Modal -->
+    <div class="modal fade" id="userModal" tabindex="-1" role="dialog" aria-labelledby="userModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="userModalLabel">User Details</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="username">Username</label>
+                        <input type="text" class="form-control" id="username" value="@HttpContextAccessor.HttpContext.Session.GetString("unique_name")" user-id="@HttpContextAccessor.HttpContext.Session.GetString("nameid")" disabled>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.6/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- jQuery UI for drag and drop -->
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <!-- Custom JavaScript -->
+    <script src="~/js/script.js"></script>
+</body>
+</html>
